@@ -1,1 +1,1 @@
-web: yarn start
+web: yarn global add @vue/cli&&yarn start
