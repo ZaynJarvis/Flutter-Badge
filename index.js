@@ -4,7 +4,7 @@ const $ = require("cheerio");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("This is an app for Flutter Pub Package Badge generatiion.");
+  res.sendFile(__dirname + "/dist/index.html");
 });
 app.get("/version/:name", async (req, res) => {
   const html = await rp(`https://img.shields.io/pub/v/${req.params.name}.svg`);
