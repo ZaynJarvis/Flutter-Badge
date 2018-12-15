@@ -18,8 +18,13 @@ Just include the following line in your README.md
 ### Examples
 
 `[![](https://flutter.zaynjarvis.com/version/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)`
+
 [![](https://flutter.zaynjarvis.com/version/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
+
+---
+
 `[![](https://flutter.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)`
+
 [![](https://flutter.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
 
 ## Built With
