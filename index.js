@@ -4,7 +4,7 @@ const $ = require("cheerio");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/dist/index.html");
+  res.sendFile(__dirname + "/index.html");
 });
 
 app.get("/version/:name", async (req, res) => {
