@@ -11,21 +11,21 @@ The quick plugin in README will help you to generate your Flutter Pub Package Ba
 Just include the following line in your README.md
 
 ```md
-[![](http://flutter.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
-[![](http://flutter.zaynjarvis.com/score/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+[![](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+[![](http://flutter-badge.zaynjarvis.com/score/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
 ```
 
 ### Examples
 
-`[![](http://flutter.zaynjarvis.com/version/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)`
+`[![](http://flutter-badge.zaynjarvis.com/version/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)`
 
-[![](http://flutter.zaynjarvis.com/version/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
+[![](http://flutter-badge.zaynjarvis.com/version/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
 
 ---
 
-`[![](http://flutter.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)`
+`[![](http://flutter-badge.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)`
 
-[![](http://flutter.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
+[![](http://flutter-badge.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
 
 ## Built With
 
